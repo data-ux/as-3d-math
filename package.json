@@ -1,8 +1,8 @@
 {
 	"name": "as-3d-math",
 	"version": "0.0.1",
-	"type": "module",
-	"ascMain": "src/as/math/index.ts",
+	"ascMain": "src/as/index.ts",
+	"types": "src/as/index.ts",
 	"description": "3D math library for AssemblyScript",
 	"homepage": "https://github.com/data-ux/as-3d-math#readme",
 	"license": "MIT",
