@@ -1,1 +1,0 @@
-import './webgl/index.spec'
